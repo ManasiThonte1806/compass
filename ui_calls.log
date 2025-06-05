@@ -1,0 +1,13 @@
+2025-06-02 11:10:41,427 - INFO - Running agent with query: 'what is USA?', domain: General, source: All
+2025-06-02 11:10:42,374 - ERROR - Agent failed to answer: An output parsing error occurred. In order to pass this error back to the agent and have it try again, pass `handle_parsing_errors=True` to the AgentExecutor. This is the error: Could not parse LLM output: `United States`
+For troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/OUTPUT_PARSING_FAILURE 
+2025-06-02 11:12:51,368 - INFO - Running agent with query: 'what is USA?', domain: General, source: All
+2025-06-02 11:17:03,592 - INFO - Agent response time: 252.22 seconds
+2025-06-02 11:18:27,962 - INFO - RAG tool received payload: {'query': 'What is USA?', 'filename': 'All'}
+2025-06-02 11:20:54,774 - INFO - RAG tool received payload: {'query': 'What is USA?', 'filename': 'All'}
+2025-06-02 11:22:53,952 - INFO - RAG tool received payload: {'query': 'What is USA?', 'filename': 'All'}
+2025-06-02 11:23:41,120 - INFO - RAG tool received payload: {'query': 'What is USA?', 'filename': 'All'}
+2025-06-02 11:25:44,782 - INFO - RAG tool received payload: {'query': 'What is USA?', 'filename': 'All'}
+2025-06-02 11:26:39,863 - INFO - RAG tool received payload: {'query': 'What is USA?', 'filename': 'All'}
+2025-06-02 11:27:17,853 - INFO - RAG tool received payload: {'query': 'What is USA?', 'filename': 'All'}
+2025-06-02 11:28:03,308 - INFO - RAG tool received payload: {'query': 'What is USA?', 'filename': 'All'}

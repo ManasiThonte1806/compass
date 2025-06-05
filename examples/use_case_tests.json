@@ -1,0 +1,52 @@
+{
+  "General": [
+    "List the top 5 customers by the number of orders placed in 2016.",
+    "What is the average number of orders per customer?",
+    "Which customer placed order number 50?",
+    "According to PDF1.pdf, what are the four types of machine learning?",
+    "List the anxiety disorders mentioned in PDF2.pdf.",
+    "What is the definition of deep learning according to PDF3.pdf?",
+    "What are the steps in the Machine Learning Pipeline according to PDF1.pdf?",
+    "What is the WHO definition of mental health as stated in PDF2.pdf?",
+    "What is the price of product P001?",
+    "Show the order dates for customer Debra Burks",
+    "Summarize project updates from emails."
+  ],
+  "Finance": [
+    "What are the key financial system vulnerabilities identified in April 2025?",
+    "Summarize the risks associated with commercial real estate markets in this report.",
+    "What does the report say about household and business debt levels?",
+    "How has the Federal Reserve evaluated the stability of large financial institutions?",
+    "What are the trends in risk appetite mentioned in the report?",
+    "List the types of assets most susceptible to liquidity stress according to this document.",
+    "What changes in market liquidity conditions are highlighted?",
+    "Which sectors are considered most at risk during a downturn?",
+    "What does the report say about leverage in the hedge fund industry?",
+    "Give me the executive summary of the April 2025 Financial Stability Report"
+  ],
+  
+  "Biotech": [
+    "What is the definition of biotechnology according to this guide?",
+    "How does biotechnology contribute to a sustainable future?",
+    "List the four types of biotechnology mentioned in the document.",
+    "What ethical considerations are discussed when applying biotechnology to solve global challenges?",
+    "What are some examples of biotechnology applications in agriculture from this guide?",
+    "How can CRISPR and gene editing raise ethical questions, according to this resource?",
+    "What is the relationship between biotechnology and the UN Sustainable Development Goals (SDGs) in this document?",
+    "Summarize the case study involving the bioengineered banana.",
+    "According to the document, what role should young people play in shaping biotechnology's future?",
+    "What questions does the guide encourage students to ask when evaluating a biotech solution?"
+  ],
+
+  "Energy": [
+    "Summarize the main findings of the Global Electricity Review 2025.",
+    "Which countries made the most progress in solar and wind adoption?",
+    "What are the global trends in coal power usage according to this report?",
+    "What regions saw the largest emissions reductions?",
+    "How did electricity demand change across continents in 2024?",
+    "What is Ember’s projection for fossil fuel phase-out?",
+    "What does the report say about the role of hydropower in 2025?",
+    "Compare clean energy investments by region as reported.",
+    "What policy recommendations are mentioned in the review?"
+  ]
+}
